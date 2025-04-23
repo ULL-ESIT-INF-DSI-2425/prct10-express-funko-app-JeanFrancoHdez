@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Funko Example",
+  "description": "Example description",
+  "type": "Pop!",
+  "genre": "Música",
+  "franchise": "Example Franchise",
+  "number": 2,
+  "exclusive": false,
+  "specialFeatures": "None",
+  "marketValue": 11.99
+}

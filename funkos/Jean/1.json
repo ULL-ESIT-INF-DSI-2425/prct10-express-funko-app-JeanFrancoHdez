@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "Updated Funko Name",
+  "description": "Example description",
+  "type": "Pop!",
+  "genre": "Música",
+  "franchise": "Example Franchise",
+  "number": 1,
+  "exclusive": false,
+  "specialFeatures": "None",
+  "marketValue": 15.99
+}
